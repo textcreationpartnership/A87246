@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect narrative of the proceedings of the army under the command of Col. Michael Iones commander in chiefe of the forces in the province of Leymster in their last advance from Dublin; with the taking of the strong castles and forts of Ballysonan, Allan, Black-hall, Raville, and Granye, in the said province. / Sent in a letter to some persons of quality at Westminster. Published by authority.</title>
+            <author>T. I.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87246</idno>
+            <idno type="STC">Wing I14</idno>
+            <idno type="STC">Thomason E468_3</idno>
+            <idno type="STC">ESTC R205315</idno>
+            <idno type="EEBO-CITATION">99864727</idno>
+            <idno type="PROQUEST">99864727</idno>
+            <idno type="VID">116959</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87246)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116959)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect narrative of the proceedings of the army under the command of Col. Michael Iones commander in chiefe of the forces in the province of Leymster in their last advance from Dublin; with the taking of the strong castles and forts of Ballysonan, Allan, Black-hall, Raville, and Granye, in the said province. / Sent in a letter to some persons of quality at Westminster. Published by authority.</title>
+                  <author>T. I.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings head in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 17. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on p.1: Dublin, 2 Octob. 1648. T.I.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116959:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>A perfect NARRATIVE OF The proceedings of the Army under the Command of Col. Michael Iones Commander in Chiefe of the Forces in the Province of Leymſter IN Their laſt advance from <hi>Dublin;</hi> with the ta<g ref="char:EOLhyphen"/>king of the ſtrong Caſtles and Forts of <hi>Ballyſonan, All<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, Black-hall, Raville,</hi> and <hi>Granye,</hi> in the ſaid PROVINCE.</p>
+            <p>Sent in a Letter to ſome perſons of quality at <hi>Weſtminſter.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings head in the old Bayley. <hi>Octob.</hi> 17. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116959:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="1" facs="tcp:116959:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>A relation of the paſſages in <hi>Lemyſter</hi> from <hi>September</hi> the ſixteenth, to the twenty ſeventh, 1648.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR:</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg> Make bold to preſent this incloſed Nar<g ref="char:EOLhyphen"/>rative to your view, wherein you may obſerve the goodneſſe of our God to us in this laſt expedition againſt the Re<g ref="char:EOLhyphen"/>bells; our valiant Governour comman<g ref="char:EOLhyphen"/>ded in chiefe himſelfe, and all his Officers and Soul<g ref="char:EOLhyphen"/>diers are ready to venture with him upon all occaſions, as in this you may ſee an inſtance; and truly the Lord hath bleſt their undertakings in reducing the Forts and Caſtles herein mentioned, ſo that now we h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve li<g ref="char:EOLhyphen"/>berty forty miles about <hi>Dublin;</hi> the particulars I muſt referre you to the incloſed, and reſt</p>
+                  <closer>
+                     <dateline>Dublin, <date>2 Octob. 1648.</date>
+                     </dateline>
+                     <signed>Yours to command <hi>T. I.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>ON Satterday the 16. of <hi>September,</hi> 1648. Col. <hi>Jenas,</hi> our Commander in chiefe and Govern our of <hi>Dublin</hi> marched forth of <hi>Dublin</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> about 2500 foot
+<pb n="2" facs="tcp:116959:3"/>
+               <!-- PDF PAGE 15 -->and 300. Horſe, one Demi-canon, two Culverings, and one Morter-peece, the reſt of our Forces from the-out Garriſons being to meet at the Randezvouz, that night we quartered at <hi>Raſcoole,</hi> ſix miles from <hi>Dublin.</hi>
+            </p>
+            <p>
+               <hi>Septemb.</hi> 17. we quartered neere <hi>Duddings-town</hi> in the County of <hi>Kildare,</hi> ſhort of the river of <hi>Liffy,</hi> whi<g ref="char:EOLhyphen"/>ther came Sir <hi>Thomas Arme-ſtrong</hi> with his Troop, Sir <hi>Patrick Wemis,</hi> Lievt. Col <hi>Yarner,</hi> and Captaine <hi>Fiſher</hi> with their Troops, and ſome Troops of Colonell <hi>Cootes</hi> Regiment.</p>
+            <p>
+               <hi>Sept.</hi> the 18 we paſſed the <hi>Liffy,</hi> and ſate downe be<g ref="char:EOLhyphen"/>fore <hi>Balliſonan,</hi> whither the reſt of our Forces being come from <hi>Drogeda, Prim, Athboy Kildare,</hi> and other Garriſons, our Army was about 4000. Foot, and 1000 Horſe; of all the enemies Garriſons in <hi>Lemyſter</hi> this of <hi>Balliſonan</hi> lay moſt to the annoyance of our quarters, and ſtood as a maine ſtop to the proceedings of our Army, or any out-deſignes towards <hi>Satherlagh, Kilken<g ref="char:EOLhyphen"/>ny,</hi> and other the enemies principall holds, of all which this of <hi>Balliſonan</hi> was held for ſtrength moſt conſidera<g ref="char:EOLhyphen"/>ble, and was known by the name of the Maiden Gar<g ref="char:EOLhyphen"/>riſon, as having never been by our Forces attempted ſince the beginning of the Rebellion; whilſt our Ar<g ref="char:EOLhyphen"/>mies marched further off, and by it to <hi>Caſtledermot, Ca<g ref="char:EOLhyphen"/>therlogh,</hi> and <hi>Roſſy,</hi> this being ſtill paſſed over as impreg<g ref="char:EOLhyphen"/>nable; this place had been mainely fortified by <hi>Pierce Fitz Gerrard,</hi> (commonly knowne by the name of <hi>Mac Thomas</hi>) Lievt. Gen. of the Rebells Horſe in <hi>Lemy<g ref="char:EOLhyphen"/>ſter,</hi> and proprietor of the place.</p>
+            <p>It had a large out-line of good defence, &amp; a ſtrong Ca<g ref="char:EOLhyphen"/>ſtle on the Weſt of it, as part of the work and firſt to be attempted, as commanding all approaches to the main worke; within this out-line was caſt up a great ditch running Eaſt and Weſt with a returne to the Church anſwering to the Caſtle, and the maine work where<g ref="char:EOLhyphen"/>unto that Line and the Church ſerved as a ſecond
+<pb n="3" facs="tcp:116959:3"/>
+               <!-- PDF PAGE 15 -->Out-work, and very defencible; within which ſecond Line was an high Mount over-looking all, having on the top a round Breſt-worke open to the houſe, and principall workes, whither was from the Mount a narrow way leading on either ſide pallizadoed.</p>
+            <p>Thence by a Draw bridge was entrance into that called the Fort of <hi>Balliſonan,</hi> compaſſed with an out Moat or Ditch, with water about twenty foot over, and very deepe, regularly flancked, where by ano<g ref="char:EOLhyphen"/>ther Draw-bridge was entrance into the innermoſt workes over another large Moat, with water more then twenty foot over, and of a very great depth; within was a ſtone wall well and ſtrongly flancked, and within that the houſe, a place of good ſtrength, double roofed, and having at the Weſt end of it a ſmall round Garret. Beſides, a Foot Company, the ordinary Terret of the place there had been (on the noiſe of our approaching) two other ſelect Compa<g ref="char:EOLhyphen"/>nies drawne thither with all neceſſaries, and the com<g ref="char:EOLhyphen"/>mand of all given to one Captaine St. <hi>Leiger.</hi> There was alſo in the place Miſtris <hi>Fitz Gerrald,</hi> Wife to <hi>Mac Thomas,</hi> a Gentlewoman of a maſculine ſpirit; as for <hi>Mac Thomas,</hi> he would not be ſhut up there, ha<g ref="char:EOLhyphen"/>ving thereby opportunity for ſolliciting <hi>Preſton</hi> and his confederates in <hi>Munſter</hi> and <hi>Connaught,</hi> as alſo <hi>Owen Roe</hi> with his Forces, for releeving a place to all of them of ſo generall concernment.</p>
+            <p>Untill the 19. we did but looke on (our blindes caſt behind us in our march, not coming up to us untill two of the Clock in the afternoone; the Governour had a little before ſummoned the place, and Sir <hi>Theo<g ref="char:EOLhyphen"/>philu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> (who had been at <hi>B<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ſ<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>an</hi> a Priſoner and there found civill reſpects) laboured by Letters to fa<g ref="char:EOLhyphen"/>cilitate the buſineſſe, by dealing with Miſtris <hi>Fitz-Gerr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd</hi> for the ſurrendring the place, offering himſelfe (in way of gratitude) to mediate with the Gover<g ref="char:EOLhyphen"/>nour for bettering her conditions if then yeelding,
+<pb n="4" facs="tcp:116959:4"/>
+               <!-- PDF PAGE 16 -->unto all which there were returnes given full of reſo<g ref="char:EOLhyphen"/>lution for holding out to the laſt. That night was ſpent in ſetting up the blindes and preparing the bat<g ref="char:EOLhyphen"/>tery, with our three Guns againſt the Caſtle part of the out-worke.</p>
+            <p>
+               <hi>September</hi> 20, our Ordinance began to play, after a while one of our Culverings was rendred unſervice<g ref="char:EOLhyphen"/>able, fayling in her carriage, ſo as the battery was maintained by the Demi canon and one Culvering only, our Morrer peece being there, and at that di<g ref="char:EOLhyphen"/>ſtance of no uſe; About ten of the Clocke, and after thirty ſix great ſhot one ſide of the Caſtle fell, in all which time the Defendants ſhot at us, holding out with an undaunted reſolution, untill our men entred the Breach; whereupon the enemy in the Caſtle re<g ref="char:EOLhyphen"/>tired to the Fort of <hi>Balliſonan,</hi> yet with ſome loſſe be<g ref="char:EOLhyphen"/>ing overtaken, and the Officer commanding in that Caſtle ſlaine in the going off.</p>
+            <p>Being ſo poſſeſſed of the Caſtle, the Out-workes with the Church became ours, whence the enemy had been beaten, and retired into the Fort not farre from them; then was the Mount gallantly ſtormed by our men, and reſolutely maintained for ſome time by the enemy, wherein we loſt three or foure (which was all that was loſt in that whole ſervice) ſome we had wounded, among whom Sir <hi>Theophilus Jones</hi> for<g ref="char:EOLhyphen"/>cing the Mount, he being ſhot in the neck, the Bullet at quarter Musket ſhot) entring into the collour, and by a ſtrange providence grayſing only on the fleſh.</p>
+            <p>The Mount thus gained that thereof open to the Houſe, and inner workes was by us ſuddainely made up, and it with the Caſtle and Church manned, out of all which our Muſqueteers played on the Enemy in the maine workes; ther<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had beene five Shot made at the Houſe from the firſt battery, but being at that diſtance it did no hurt; The Gover<g ref="char:EOLhyphen"/>nour therefore commanded the Gunnes to be drawn
+<pb n="5" facs="tcp:116959:4"/>
+               <!-- PDF PAGE 16 -->without the out-line, and making uſe of the ſecond out-line for a blinde as preſent, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re were thence made five Shot at the round Terret at the end of the Houſe, whereon had beene bung out a Flag of de<g ref="char:EOLhyphen"/>fiance, which at the firſt Shot was beate downe, with part of the Terret, the Morter-Piece planted alſo neere the Church began to play, and did great execution on the Houſe to the great terror of the defendants; this night were the blinds ſet up, and the battery ſetled as the Church againſt the Houſe and Inner workes.</p>
+            <p>
+               <hi>September</hi> 21. Upon fight of our Gunnes ſo planted the Enemy beat a Parle, St. <hi>Leiger</hi> commanding in the place deſiring time untill three or foure of the clock in the afternoone, for reſolving on further anſwer to the ſummons ſent him, adding that he was limited to a time for holding out, and could not till then give any poſitive anſwer, whereby and by other advertiſements given; the Governour found this to be intended onely as delatory for hindering us in our worke, and for gaining time untill the Enemy might draw towards <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for relieving the place which was expected of the beſieged, and probably believed of us, the conſequence of the place conſidered with the near<g ref="char:EOLhyphen"/>neſſe of <hi>Preſton</hi> about twelve or thirteen miles from us, and <hi>Mac Thomas</hi> ſhewing himſelfe with ſome Horſe within leſſe then two miles of our Campe.</p>
+            <p>Wherefore our Governour i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eturne would but afford them one halfe houre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tim<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely to conſider of their courſe, which not <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed, our Battery be<g ref="char:EOLhyphen"/>gan to play at the workes and flan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d our Morter-Piece at the Houſe, ſo continuing untill two in the afternoone, having in that time made ſixteen great Shot<g ref="char:punc">▪</g> and ſix out of the Morter-Piece, the latter was of the gre<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rror, and loſſe to the defendants, eſpecially to the women, of whom were about <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>00 in the place, by whoſe out <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the not appearing
+<pb n="6" facs="tcp:116959:5"/>
+               <!-- PDF PAGE 17 -->of the expected and promiſed ſupplies, and by the re<g ref="char:EOLhyphen"/>ſolution of our men (more then men) the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did againe come to a Pailey, and about foure of the clock was concluded that Captaine Sir <hi>Lerger</hi> Gover<g ref="char:EOLhyphen"/>nour of the place, with all the reſt of the Souldiers ſhould by twelve of the clock the next day, march our with their Armes, bag and baggage, and that in the mean time 200 of our men ſhould be admitted for poſ<g ref="char:EOLhyphen"/>ſeſsing the place for us, which was done accordingly.</p>
+            <p>
+               <hi>September</hi> 22. According to the articles of ſurren<g ref="char:EOLhyphen"/>der, there marched away three Companies of the Re<g ref="char:EOLhyphen"/>bells, many of their wounded being left in the place to be ſent for</p>
+            <p>Colonell <hi>Fenwick</hi> was appointed to the guard of the place with 200 Foot, and two Proopes o Horſe; The gaming of the place in ſo ſhort a time was ſtrange to all, knowing the ſtrength of it, the Enemy believing it would hold us ſo many Moneths rather then dayes, occaſioning their not yet appearing to the reliefe of it, which otherwiſe they would doubtleſſe have attemp<g ref="char:EOLhyphen"/>ted, if any danger of carrying it had been but ſuſpect<g ref="char:EOLhyphen"/>ed; The place alſo being gained and better viewed by us, it ſeemed to us, yet more ſtrange to them parti<g ref="char:EOLhyphen"/>culary, who untill then little valued the worke, con<g ref="char:EOLhyphen"/>ceiving it to be more feaziable then it how appeared, which before conſidered of by our Governour, and that the ſtorming of that place might be the loſt of five hundred mens lives, and yet not carry it, that loſſe of time might be dangerous, there being ſo many and ſo great parties in the field, as <hi>Preſton</hi> with his Army, with in one mile of <hi>Caſterl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh, Owen-Roe</hi> with his Ar<g ref="char:EOLhyphen"/>my in the Queenes County, and <hi>Inchiquin</hi> at <hi>Aghoboe,</hi> earneſtly ſollicited by <hi>Preſton,</hi> and <hi>Mac Thomas</hi> againſt us, who yet refuſed to joyne with them againſt the Engliſh, whereunto was added the falling ſhort of our proviſions, and particularly our Powder and Ammu<g ref="char:EOLhyphen"/>nition, whereof at the laſt Parley was found left but
+<pb n="7" facs="tcp:116959:5"/>
+               <!-- PDF PAGE 17 -->two Barrels, onely beſides the convenience of the place for a fixt Magazine on further undertakings, and for a preſent Garriſon, to our Quarters, of exceeding great concernment, the conveniently whereof had been loſt if the Battery had continued, the Houſe being already much defaced; in all which conſiderations, our Go<g ref="char:EOLhyphen"/>vernour conceived it neceſſary to lay hold on all oc<g ref="char:EOLhyphen"/>caſions, to entertaine any reaſonable propoſitions, whereby the place might be in our power without further diſpute; The ſtrong Caſtle of <hi>Blackball</hi> neere <hi>Bollyſon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> a piece of great conſequence lying on a paſſe, and a place of great ſtrength, nothing ſhort of the Caſtle of <hi>Iron-hill,</hi> the only Battered Caſtle in our laſt going out and <hi>Ra<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>le</hi> in the County of <hi>Catherlagh,</hi> and <hi>G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>any</hi> in the County of <hi>Wickloe</hi> (all following the for<g ref="char:EOLhyphen"/>tune of <hi>Ballyſonan</hi>) ſubmitted to us.</p>
+            <p n="23">23 Order was given for making up the breaches at <hi>Ballyſonan,</hi> and for fortifying the Mount with a new worke, then a convay of 150 Horſe were ſent to ſe<g ref="char:EOLhyphen"/>cure our proviſions from <hi>Dublin</hi> to the Campe at <hi>Bal<g ref="char:EOLhyphen"/>liſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nan,</hi> which for want of a convenient number of carriages brought us not proviſions for halfe a weeke, this ſhortnes of carriages being found the great ob<g ref="char:EOLhyphen"/>ſtruction to all our great undertakings, ſo that without them nothing of conſequence can be attempted, more then twenty miles from <hi>Dublin<g ref="char:punc">▪</g>
+               </hi> whence we are all to be ſupplyed.</p>
+            <p>Therefore our Governour was enforced to worke neerer home, and the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4 to march backe towards the Iſland of <hi>Alton,</hi> the next moſt conſider able place poſ<g ref="char:EOLhyphen"/>ſeſſed by the Enemy, to the great annoyance of our Quarters, this being within us a very receptacle and den of theeves whence were made daily incurſions e<g ref="char:EOLhyphen"/>ven to the very gates of <hi>Dublin;</hi> The Iſland of <hi>Allon</hi> being a neere and ſafe retreat for them, It is called an Iſland being encompaſſed with a Bogg to horſe
+<pb n="8" facs="tcp:116959:6"/>
+               <!-- PDF PAGE 18 -->in acceſsible and not to be paſſed by foot, but by blin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and dangerous wai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and eaſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y defended by a fe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gainſt thouſands. This Iſland is about ſeven or eight miles compaſſe, having in it ſixteen Villages and ſome Caſtles, among others the principall and of grea<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſtrength is that of <hi>Kil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge</hi> two miles within the I<g ref="char:EOLhyphen"/>ſland, poſſeſſed by <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rris Fitz Gerrara</hi> of <hi>All<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> it is <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted well and d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eply, having a draw bridge, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Iron Grate, and out workes very defenſible<g ref="char:punc">▪</g> having alſo two companies for the guard of it, command<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by Captaine <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>all.</hi> Into this Boggy Iſland was b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t one common paſſage called the <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>acka<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch,</hi> being a ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſey made through the Bogg<g ref="char:punc">▪</g> almoſt a quarter of a mile in leng<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, this the Rebel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had caſt through in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeverall places more then twenty Foot over and to caſt it up ridgeway almoſt throughout, that where it was not cut but for one Footman to ſtand upon, with<g ref="char:EOLhyphen"/>out Ordinance was not the Caſtle to be forced, and this way onely was Ordinance to be brought, the <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ting whereof would have been a worke very diff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rent (were there) thereunto no oppoſition given; but for hindering any ſuch deſigne, the Rebels had to<g ref="char:EOLhyphen"/>wards the further end of that cauſey, made a round Fort of Sod with a great Moat, and water twenty Foot over, and a picke length in depth, over which was a paſſage by plankes, onely drawne into the Fort in nature of a drawbridge and put forth as occaſion ac<g ref="char:EOLhyphen"/>quired; the paſſage into the firſt was ſo low that with<g ref="char:EOLhyphen"/>out ſtooping almoſt knee low there was no entrance the top of this worke was rounded with Muſquet Baſkets, artificially made and orderly placed with ad<g ref="char:EOLhyphen"/>vantage to the defendants, within were huts and roome for forty men, and the Fort it ſelfe ſo placed that our Ordnance could not command it at ſuch diſtance, the Guard whereof was committed to a Ser<g ref="char:EOLhyphen"/>jeant and twelve Musqueteers.</p>
+            <p>
+               <pb n="9" facs="tcp:116959:6"/>
+               <!-- PDF PAGE 18 -->
+For gaining this paſſage, and if it were poſsible the Fort alſo, our Governour ſent out five hundred com<g ref="char:EOLhyphen"/>manded Foot, with about one hundred Horſe. This night the Army paſsing by the <hi>Li<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> q<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>artered at a place called <hi>A<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ris-T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn,</hi> about one <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhort of the paſſe, that reſolute commanded Party of Foot had with much danger gained a paſſage through the bogg, ſideling of that broken Cawſey; and having ſur<g ref="char:EOLhyphen"/>rounded the Fort threatned the caſting in of Grana<g ref="char:EOLhyphen"/>does, which could not have been no other then Bug<g ref="char:EOLhyphen"/>beares had not God himſelfe in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as in all other things done his owne worke by <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taking from the Rebells their reſolutions, they after ſome little diſ<g ref="char:EOLhyphen"/>pute deſiring quarter, and that they might retire into the Caſtle of <hi>Kilm<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in the Iſland, adding, that they ſaw all given to us<g ref="char:punc">▪</g> and that there was no reſiſting us; there was a Guard of ours placed the reſt of that com<g ref="char:EOLhyphen"/>manded Party of Foot, went into the Iſland, and quartered that night-ſhort of the Caſtle of <hi>Kilmaoge.</hi>
+            </p>
+            <p>
+               <hi>September</hi> the 25. Orders were given for cutting downe Trees for making the way paſſable for Ord<g ref="char:EOLhyphen"/>nance, and many hands imployed in the worke, which was found a work<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of time beyond what we firſt imagined, moſt of this day being ſpent on it with little advantage; our Governour having with ſome difficulty and hazard paſſed the Boggs into the Iſland, and appearing before the Caſtle with that ſmall Party before mentioned, and ſummoning the place the Defendants came to a Parley, and that night admitted of a Garriſon of fourſcore men into the Ca<g ref="char:EOLhyphen"/>ſtle, the Rebells being the next day to march out.</p>
+            <p>
+               <hi>Septemb.</hi> 26. Captaine <hi>White,</hi> of Colonell <hi>Kinniſtons</hi> Regiment with one hundred men was appointed for the defence of the Caſtle and Fort of the enemy, ha<g ref="char:EOLhyphen"/>ving marched away according to agreement. This day upon intelligence given of <hi>Preſtons</hi> and <hi>Taa<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es</hi> prepara<g ref="char:EOLhyphen"/>tions
+<pb n="10" facs="tcp:116959:7"/>
+               <!-- PDF PAGE 19 -->for attempting ſomething againſt <hi>Ball<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ders were given for drawing in thither ſome oth<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Companie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if cauſe ſo required, as alſo for ſtreng<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> having the Garriſons of <hi>Kildare, Naray,</hi> and <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ron</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> This day the Army paſsing the <hi>Liffy</hi> marched hom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>wards, quartered that night at <hi>Kill,</hi> two miles ne<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Dublin.</hi>
+            </p>
+            <p>
+               <hi>September</hi> 27. our Parties called from the out quar<g ref="char:EOLhyphen"/>ters for this ſervice, being ſent backe to their reſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ctive homes, the Governour with the reſt of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my returned un<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Dublin,</hi> having in this march very much enlarged and ſecured all, and almoſt lockt up our quarters from incurſions by the enemy whereu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>to we were formerly laid open.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116959:7"/>
+            <!-- PDF PAGE 19 -->
+         </div>
+      </body>
+   </text>
+</TEI>
